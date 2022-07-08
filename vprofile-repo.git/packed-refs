@@ -1,0 +1,27 @@
+# pack-refs with: peeled fully-peeled sorted 
+365103d9d4b8e885c8b8074d06e5a92042113b6c refs/heads/SCA-VP
+884769066fd336a980f086530d5dc2ea5627a9a8 refs/heads/VP-TEST
+960ac08b592fb568b3cd1e514151cac4764a2544 refs/heads/cicd-jenk
+ea8a87f28259c49524cd5442d7f4f156e398c400 refs/heads/circleci
+2f9b5cbdbec1c4f3cf6706eac5e9134a2fa63309 refs/heads/circleci-project-setup
+a7a7d5e72527504383943c20f22d68cb88c81e4b refs/heads/dependabot/maven/ch.qos.logback-logback-classic-1.2.0
+a9d94e566cdcef3fdb106a65587fa51f0f9f3e8e refs/heads/dependabot/maven/junit-junit-4.13.1
+5608a513e167e8e36d2f1d0d4d641b5004abe21b refs/heads/dependabot/maven/mysql-mysql-connector-java-8.0.28
+c02edbfb614e8ab0f85c9b9d3f97c62a45e266e5 refs/heads/dependabot/maven/org.hibernate-hibernate-validator-5.3.6.Final
+0e4e3eebe93bf0b35db01d6a5b197873a9d511f7 refs/heads/dependabot/maven/org.springframework-spring-webmvc-5.3.18
+c5a92198c0a9d2ddd161c489e619b6a242fdf206 refs/heads/dependabot/maven/org.springframework.data-spring-data-jpa-1.11.23.RELEASE
+0629e7e96eaa4d65492b62f5c9102821aa511856 refs/heads/dependabot/maven/org.springframework.security-spring-security-web-5.2.10.RELEASE
+50e161453252c2c3ffc23673ed291a01394d26d3 refs/heads/euphoria
+08b7c1f3f035422e29d548243436f4894519f58e refs/heads/kubetest1
+87b1a2e20e5e94a0c15978de9659130d64c8b19e refs/heads/master
+2fab30e9ebae2c03a43f8fa18410798d04a3f01f refs/heads/paac
+96b36e3a934e3d8d8bea8f056784396608d14f91 refs/heads/softtesttest
+5ffe40610f8e87e7a7960d1ce5a1b3f32f35d2a5 refs/heads/testkubepipe
+9699796592c5d7f88c3be7a544959d04d8a2e8f0 refs/heads/testrmq
+dd456a690ef575b5aae3512a3e2cb5f685e86bb2 refs/heads/vp-docker
+7b3386152ff47e38069e6faffb8d5381ac603f34 refs/heads/vp-memcached
+95c34eaa8f4c4b4076bd8c2c78366d0f5a28777b refs/heads/vp-memcached-rabbitmq
+6edcb5ad0b6975c88e1fb3636ecb3d0dd06d4f8d refs/heads/vp-old-mvn
+35697b417e71fa53e7061d3b1c6e14115f6828c6 refs/heads/vp-rem
+14641e55612d5e0113351d6876c260a0412b200f refs/heads/vp-rem_vpro-pro
+73bcc431483ee782405543ee7759bf18ca632760 refs/heads/vpro-pro
